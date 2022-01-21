@@ -1,0 +1,11 @@
+{
+  "name": "OrgNgDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abbratu/org-ng-demo.git",
+  "author": "Adrian Bratu <adrian.bratu@amrock.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/cli": "^13.1.4"
+  }
+}
